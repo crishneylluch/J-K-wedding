@@ -1,0 +1,1 @@
+Jake & Kate wedding website. Upload all files to the root of your GitHub Pages repository. RSVP is via a Facebook wedding page; no direct link has been supplied. Unassigned entourage roles are shown as dashes.
